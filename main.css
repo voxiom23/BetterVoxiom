@@ -1,6 +1,6 @@
 * {
 	/* Menlo because yes */
-	font-family: 'Menlo';
+	font-family: 'Ubuntu Mono';
 }
 
 [href="/friends"]>:nth-child(1), [href="/clans"]>:nth-child(1) {
